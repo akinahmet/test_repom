@@ -1,0 +1,1 @@
+print('hava cok soguk')
